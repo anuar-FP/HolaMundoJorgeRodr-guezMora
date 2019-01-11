@@ -1,0 +1,10 @@
+#Instrucciones para la práctica de LMSGI
+
+ - Activar las GitHub Pages
+ - Añádele el fichero de inicio. En el aparecerá una tabla html con las siguiente columnas:
+ nombre, apellidos, usuariogithub, enlace al hosting de este repositorio.
+ -Añade un fichero style.css en la carpeta CSS
+ -Crea un issue denominado "añadir colaborador Fulanito". En el notificarás a uno de tus compañeros
+ que deberá añadirse como colaborador. Deberá añadir una línea a la tabla con sus datos. Para ellos debe crearse una nueva rama,
+ crearse un pull request y cerrarlo. Se hará un merge a la rama master, pero recuerda que tus datos aparecerán siempre al principio de la tabla
+ -Repite un issue por cada compañero de clase.
